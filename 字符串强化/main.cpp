@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
+
 #include "String.h"
+
 #pragma warning(disable:4996)
 
 ostream& operator<<(ostream& out, String& op)
